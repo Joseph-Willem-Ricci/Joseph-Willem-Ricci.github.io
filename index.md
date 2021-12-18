@@ -1,3 +1,18 @@
+# Joseph Willem Ricci
+
+A personal website and blog I plan on building
+
+Learning computer science at the University of Pennsylvania, online, from Copenhagen, Denmark.
+
+Topics I plan on blogging about:
+- The intersection of brain-computer interface and blockchain is provenance and monetization of ideas and knowledge
+- A principle for community growth: value for all, at every timescale and at every stage of growth
+- Peak community: the vulnerability/trust feedback loop and psuedonymity as a tool for establishing critical trust
+- Two models of maximising consent: negative feedback, governance and competition
+- Quantified self and self-report: a virtuous cycle of physical and mental health
+- How "creator coins" can enable better apprenticeship and mentorship education models 
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Joseph-Willem-Ricci/Joseph-Willem-Ricci.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
